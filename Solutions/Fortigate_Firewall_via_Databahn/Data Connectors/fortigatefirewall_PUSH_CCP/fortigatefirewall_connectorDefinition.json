@@ -10,7 +10,7 @@
       "title": "Fortigate Firewall",
       "publisher": "Fortigate Firewall",
       "logo": "<svg width=\"75px\" height=\"75px\" viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"40\" stroke=\"black\" stroke-width=\"3\" fill=\"red\" /><!-- <img src=\".svg\" /> --></svg>",
-      "descriptionMarkdown": "This connector integrates Fortigate Firewall logs into Microsoft Sentinel using push ingestion. For more information, see the [Fortigate Firewall documentation](https://docs.fortinet.com/document/fortigate-firewall).",
+      "descriptionMarkdown": "This connector integrates Fortigate Firewall logs into Microsoft Sentinel using push ingestion. For more information, see the [Fortigate Firewall documentation](https://docs.fortinet.com/document/fortigate-firewall). Please refer to it",
       "graphQueries": [
         {
           "metricName": "Audit Logs",
